@@ -1,5 +1,5 @@
 
-#	End to End Business Analysis for a Global Bike Manufacturing Company in PowerBI:
+#	Detailed Business Analysis of a Globale Manufacturing Company in PowerBI:
 
 ## Project Description:
 This project deals with the total end to end business intelligence solution for a global manufacturing company which includes --
@@ -15,7 +15,7 @@ returns, products, customers and territories.
 
 ## Project Pipeline:
 
-![Screenshot 2022-01-22 134134](https://user-images.githubusercontent.com/80168505/150631764-947ab4d0-9984-474a-80d2-f6922992b01f.png)
+![sandipa](https://user-images.githubusercontent.com/80168511/153021060-57b801fe-ae7d-4535-9b87-6949a87f6068.png)
 
 ## Project Walkthrough:
 ### 1. Loading the csv files:
