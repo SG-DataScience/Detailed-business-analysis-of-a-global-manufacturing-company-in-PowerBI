@@ -61,8 +61,7 @@ The final visual report mainly consist of 3 pages--
 - In this page, we have used 2 slicers-- One is Date slicer another one is continent slicer.
 - In the bottom of this page, we have added a bookmark icon which connects to the product detail page.
 The First Page looks like --
-![page 1](https://user-images.githubusercontent.com/80168505/150933214-fc39d877-c5bf-4dff-8eb2-bf726cb25d68.png)
-
+![p1](https://user-images.githubusercontent.com/80168511/153022631-5f10a1d0-ab4f-409f-a2fc-eae099c515b4.PNG)
 
 #### 2. Product Detail (Second Page) :
 This page deals with the information about the products.
@@ -76,7 +75,7 @@ First of all, in this page we have added "Product Name" as the Drill-Through fie
 - Using this price adjustment %, two measures has been created - adjusted price and adjusted profit. Now we have added a line chart which visualizes the difference between the adjusted profit's values (according to the selected value in slicer) and the actual total profit.
 - At last we have added a multi-row card which shows the Avg Retail Price and the Adjusted Price (referring to the slicer).
 The Second Page looks like --
-![page 2](https://user-images.githubusercontent.com/80168505/150934190-f0c917b8-36ba-43db-a907-7a234d7825bc.png)
+![p2](https://user-images.githubusercontent.com/80168511/153022661-d645498b-9b68-4672-a0b4-5a877ed4559e.PNG)
 
 ### 3. Customer Detail (Third Page) :
 As its name suggests, this page contains the customer details.
@@ -87,6 +86,5 @@ As its name suggests, this page contains the customer details.
 - Then we have inserted 3 cards which shows the full name, total orders and total revenue of the top customer based on the total revenue.
 - At the bottom of the page we have inserted a arrow button which connects to the Overall Summary page.
 The Customer Detail page looks like --
-![page 3](https://user-images.githubusercontent.com/80168505/151015648-ea8c4fad-bd80-497c-864a-253ec0921e18.png)
-
+![p3](https://user-images.githubusercontent.com/80168511/153022688-42ddeb27-fbef-4f4b-b145-bd23be136f56.PNG)
 #### In this entire dashboard we have set up a report level filter on year, so that all the inforamtion should be of year 2016 and 2017.
